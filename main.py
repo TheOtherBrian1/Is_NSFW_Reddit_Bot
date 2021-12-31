@@ -12,7 +12,7 @@ load_dotenv()
 
 all_nsfw_from_dist = sum(nsfw_distribution)
 
-#
+
 def main():
     reddit = praw.Reddit(
         client_id=os.environ['CLIENT_ID'],
@@ -21,7 +21,7 @@ def main():
         username=os.environ['USER_NAME'],
         password=os.environ['PASSWORD']
     )
-    for comment in reddit.subreddit("askreddit").stream.comments():
+    for comment in reddit.subreddit("testingground4bots").stream.comments():
         try:
             print(comment.author)
             if "isNSFW?" in comment.body:
