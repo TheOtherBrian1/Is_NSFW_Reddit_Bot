@@ -21,6 +21,7 @@ def main():
         username=os.environ['USER_NAME'],
         password=os.environ['PASSWORD']
     )
+    print(os.environ['USER_NAME'], 'is this working')
     for comment in reddit.subreddit("testingground4bots").stream.comments():
         try:
             print(comment.author)
