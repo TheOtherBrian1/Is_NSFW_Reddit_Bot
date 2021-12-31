@@ -21,8 +21,7 @@ def main():
         username=os.environ['USER_NAME'],
         password=os.environ['PASSWORD']
     )
-    print(os.environ['USER_NAME'], 'is this working')
-    for comment in reddit.subreddit("nsfw").stream.comments():
+    for comment in reddit.subreddit("casualiama").stream.comments():
         try:
             print(comment.author)
             if "isNSFW?" in comment.body:
