@@ -12,7 +12,7 @@ load_dotenv()
 
 all_nsfw_from_dist = sum(nsfw_distribution)
 
-
+#
 def main():
     reddit = praw.Reddit(
         client_id=os.environ['CLIENT_ID'],
