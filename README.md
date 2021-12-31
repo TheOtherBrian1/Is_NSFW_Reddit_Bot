@@ -10,6 +10,6 @@ Detects if an account is NSFW. Intended to be used by platonic friend forums on 
 <h4>Directions to deploy the bot</hr>
 <ol>
 	<li>
-		
+		d
 	</li>
 </ol>

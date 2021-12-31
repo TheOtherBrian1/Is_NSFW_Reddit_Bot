@@ -1,4 +1,4 @@
-kfrom Is_Account_Nsfw.format_markdown_body import format_markdown_body
+from Is_Account_Nsfw.format_markdown_body import format_markdown_body
 from Is_Account_Nsfw.format_markdown_header import format_markdown_header
 from Is_Account_Nsfw.data_figures import nsfw_distribution
 from Is_Account_Nsfw.get_nsfw_data import get_nsfw_data
