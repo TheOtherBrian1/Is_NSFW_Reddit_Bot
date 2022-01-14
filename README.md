@@ -1,7 +1,33 @@
 # Is_NSFW_Reddit_Bot
 
-Detects if an account is NSFW. Intended to be used by platonic friend forums on Reddit to prevent malicious actors from infiltrating.
+Detects if an account is NSFW. Intended to be used by platonic friend forums on Reddit to prevent malicious actors from infiltrating. Designed initially for the platonic sub, /r/cuddle_buddies, 
 <img src = "Readme-assets/demo.png" />
+
+<hr />
+<h4>Research</h4>
+<p>
+	With the on going pandemic, the loneliness crisis has been severely exacerbated. First formalized in 2017 by former US Surgeon General Vivek Murthy, the loneliness crisis outlines a growing phenomenon where rouhgly 22%, 60 million Americans, felt intense isolation and lack of connection throughout the year. Although researchers have identified multiple forms of loneliness (the two dominant forms are emotional loneliness and social loneliness. My pursuit prioritized emotional loneliness over social loneliness. Emotional loneliness is defined as the subjective sense that there is a troubling deficit between your desired level of intimate connection and your actual level. 
+</p>
+<p>
+	There are a series of online forums and communities built around relieving this form loneliness. In fact, there is a small, but fascinating industry focused on platonic intimacy and touch starvation relief. The main industry leaders are Cuddle Comfort and Rent a Friend. The main question is do these services actually provide relief. Can self-coordinated intimacy with strangers be effective against loneliness? Considering chronic loneliness is the equivalent of smoking 15 cigarettes a day when it comes to mortality, it's important to review all avenues for relieving it. As absurd as it it may feel, even digitally relevant methods for relieving loneliness must be considered. It is unfortunate, but most major studies surrounding loneliness relief prioritize the elderly, leaving behind a large population of confused and desperate young people. 
+</p>
+
+<p>
+	
+</p>
+<p>
+	From 7623 submissions, I found:
+
+    6413 [M4F]
+
+    363 [M4A]
+
+    121 [F4F]
+
+    605 [F4M]
+
+    121 [F4A]
+</p>
 
 <hr />
 <h4>Description:</h4>
