@@ -18,24 +18,9 @@ Detects if an account is NSFW. Intended to be used by platonic friend forums on 
 <p>
 	This is an ongoing research project, that I am leaving public, despite it's lack of resolution. GitHub offers the necessary transparency required to reassure invested parties that their data and information is being handled properly.
 </p>
-<!--
-<p>
-	From 7623 submissions, I found:
 
-    6413 [M4F]
-
-    363 [M4A]
-
-    121 [F4F]
-
-    605 [F4M]
-
-    121 [F4A]
-</p>
-
--->
 <hr />
-<h4>Description:</h4>
+<h4>Description of Bot:</h4>
 <p>When the bot is deployed to a Reddit forum, it will scan all new comments. When a user responds to a comment or post with <em>is_nsfw?</em>, the bot will scan the last 100 engagements the parent comment/submission for activity labeled NSFW. The bot will return a table of all the flagged submissions, as well as deviancy score. The deviancy score is determined from data that was scraped from 692 randomly selected users. Data analysis and cleaning was done with Pandas, Seaborn, and Google Big Query</p>
 
 <hr />
