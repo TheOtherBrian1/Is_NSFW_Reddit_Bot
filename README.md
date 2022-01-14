@@ -18,7 +18,6 @@ Detects if an account is NSFW. Intended to be used by platonic friend forums on 
 <p>
 	This is an ongoing research project, that I am leaving public, despite it's lack of resolution. GitHub offers the necessary transparency required to reassure invested parties that their data and information is being handled properly.
 </p>
-<!---
 <p>
 	From 7623 submissions, I found:
 
