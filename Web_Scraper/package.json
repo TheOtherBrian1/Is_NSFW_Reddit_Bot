@@ -1,0 +1,16 @@
+{
+  "name": "reddit_web_crawler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ndjson": "^2.0.0",
+    "node-jq": "^2.0.0",
+    "puppeteer": "^10.2.0"
+  }
+}
