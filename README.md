@@ -1,6 +1,6 @@
 # Is_NSFW_Reddit_Bot
 
-Detects if an account is NSFW. Intended to be used by SFW subreddits to detect and monitor potentially malicous actors who enter platonic sub-reddits. Designed initially for the platonic sub, /r/cuddle_buddies, 
+Detects if an account is NSFW. Intended to be used by SFW subreddits to detect and monitor potentially malicous actors. Designed initially for the platonic sub, /r/cuddle_buddies, 
 <img src = "Readme-assets/demo.png" />
 
 <hr />
